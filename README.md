@@ -1,4 +1,4 @@
-# -GLOBAL-ECONOMIC-DEMOGRAPHIC-TRENDS-ANALYSIS-POWER-BI-PROJECT
+# GLOBAL ECONOMIC DEMOGRAPHIC TRENDS ANALYSIS - POWER BI PROJECT
 
   This project presents a detailed data analysis and visualization of global economic and demographic trends using datasets from 1960–2016. It combines SQL, Excel, and Power BI to uncover insights about GDP, population, income groups, health indicators, and sector contributions for over 225 countries.
 
@@ -14,10 +14,10 @@
 * Presentation & Report: PowerPoint slides and DOCX summary with insights
 
 # 🧠 Project Objectives
-✅ Analyze GDP and population trends over time
-✅ Understand country-level differences across income groups and regions
-✅ Examine health and infrastructure metrics (e.g., literacy, mortality, phones)
-✅ Identify countries leading and lagging in various economic dimensions
+ ✅ Analyze GDP and population trends over time
+ ✅ Understand country-level differences across income groups and regions
+ ✅ Examine health and infrastructure metrics (e.g., literacy, mortality, phones)
+ ✅ Identify countries leading and lagging in various economic dimensions
 
 # 🛠️ Tools & Techniques Used
 * Power Query: Data cleaning & transformation
